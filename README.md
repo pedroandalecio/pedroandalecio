@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Pedro Gontijo
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/pedroandalecio/)
+
+## Trabalho
+
+Atuo no momento como Desenvolver Java Full Stack na (FIAT) - FCA Fiat Chrysler Automobiles, atuando na manutenção e evolução dos sistemas internos : backend, frontend e mobile, pela empresa Reply.
+
+
+
