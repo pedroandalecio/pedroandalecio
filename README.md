@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/pedroandalecio/)
 
-## Trabalho
-
-Atuo no momento como Desenvolver Java Full Stack na (FIAT) - FCA Fiat Chrysler Automobiles, atuando na manutenção e evolução dos sistemas internos : backend, frontend e mobile, pela empresa Reply.
-
-
-
+Desenvolvedor Java Full Stack com experiência profissional em desenvolvimento de software.
+Sólida experiência no desenvolvimento de sistemas web utilizando backend em Java.
+Apaixonado por tecnologia e inovação, sempre em busca de conhecimento, crescimento pessoal e profissional. 
